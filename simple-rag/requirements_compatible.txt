@@ -1,0 +1,16 @@
+# Core dependencies for the PDF chat application (Python 3.11 compatible)
+streamlit==1.38.0
+streamlit-chat==0.1.1
+langchain==0.2.16
+langchain-community==0.2.17
+langchain-core==0.2.41
+langchain-text-splitters==0.2.4
+chromadb==0.5.7
+fastembed==0.7.1
+pypdf==5.0.0
+
+# Optional: Basic visualization (uncomment if needed)
+# matplotlib==3.8.4
+# seaborn==0.13.2
+# scikit-learn==1.4.1
+# scipy==1.13.0 
